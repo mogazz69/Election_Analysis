@@ -29,4 +29,4 @@
 For a business proposal, we can modify this script to fit any election. lets say we need to use it for an entire state for example. All we need to do would be to change the *csv* file to contain all the counties in said state. 
 We can also add other criteria to track or count, like *race*, *gender*, or *income* you name it.
 
-a7a 1 a7a kaman
+a7a 1 a7a kaman a7a kilaket tany mara
